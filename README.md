@@ -15,9 +15,10 @@ Packing will generate an output game container from an unpacked folder structure
 - This process will validate the content for errors.
 
 Current progress:
-- Archive reader: 100% (every single byte is read without skipping any block)
+- Archive reader: 100% (every single byte is read without skipping anything)
+- Archive writer: 100% (every single byte is written without skipping anything)
 - Specify values: 90% (missing actions and need to verify some type-flags)
 - Unpacking: 90% (missing whats not specified yet)
+- Packing: 10% (will get real progress after values are specified and unpacking is completed)
 - Bugfixes: 10% (basic implementation, need to verify final output to find more bugs)
-- Packing: 5% (basic archive is created, content will be added when the unpacking process is finalized)
 - Output documentation wiki: 0% (when everything is done, the wiki will contain the information on how to mod)
