@@ -19,6 +19,6 @@ Current progress:
 - Archive writer: 100% (every single byte is written without skipping anything)
 - Specify values: 90% (missing actions and need to verify some type-flags)
 - Unpacking: 90% (missing whats not specified yet)
-- Packing: 10% (will get real progress after values are specified and unpacking is completed)
+- Packing: 30% (a little behind the unpacking progress, as i try to generate the exact same output as the original input was)
 - Bugfixes: 10% (basic implementation, need to verify final output to find more bugs)
 - Output documentation wiki: 0% (when everything is done, the wiki will contain the information on how to mod)
