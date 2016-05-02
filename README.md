@@ -1,6 +1,7 @@
 # DesktopAdventuresToolkit
 Application to unpack and repack Desktop Adventure Games (Indiana Jones and Yoda Stories).
 This application also allows to play Indiana Jones in Yoda Stories Engine by unpacking and repacking the archive.
+Additionaly this toolkit can be used as java library to load and save either unpacked or packed content for use inside other projects.
 
 Unpacking will generate an output directory with a set of simple formats. No information will be truncated when unpacking.
 - Zones are saved as .tmx files. (viewable with Tiled)
